@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b4ba2c2-fbdb-4af0-ab23-ab2be8d74d8c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/create_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/model/saved_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/variables/variables.data-00000-of-00002" beforeDir="false" afterPath="$PROJECT_DIR$/model/variables/variables.data-00000-of-00002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/variables/variables.data-00001-of-00002" beforeDir="false" afterPath="$PROJECT_DIR$/model/variables/variables.data-00001-of-00002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/model/variables/variables.index" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +30,11 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/draw_number.py" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aaron\PycharmProjects\NumberGuesserNet" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1592506041791</updated>
     </task>
+    <task id="LOCAL-00001" summary="Separate Grid class from draw_number">
+      <created>1592599368886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592599368886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +109,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/NumberGuesserNet" />
     </ignored-roots>
+    <MESSAGE value="Separate Grid class from draw_number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Separate Grid class from draw_number" />
   </component>
 </project>
