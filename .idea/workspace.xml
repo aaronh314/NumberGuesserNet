@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b4ba2c2-fbdb-4af0-ab23-ab2be8d74d8c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Handwritten-Equation-Solver-Neural-Net.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Handwritten-Equation-Solver-Neural-Net.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/best_weights.h5" beforeDir="false" afterPath="$PROJECT_DIR$/best_weights.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/create_model.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/model/saved_model.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/variables/variables.data-00000-of-00002" beforeDir="false" afterPath="$PROJECT_DIR$/model/variables/variables.data-00000-of-00002" afterDir="false" />
@@ -29,7 +32,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/draw_number.py" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
